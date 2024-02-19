@@ -1,0 +1,11 @@
+title: Справка
+links:
+  - title: Что такое EnjoySurvey?
+    href: enjoysurvey.md
+  - title: 'Глоссарий'
+    href: glossary.md
+  - title: Требования к опросам
+    href: requirements.md
+  - title: Добавление сотрудников
+    href: users.md
+

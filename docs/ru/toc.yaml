@@ -1,0 +1,11 @@
+title: Документация EnjoySurvey
+href: index.yaml
+items: 
+  - name: Справка 
+    include:
+      path: ref/toc.yaml
+      mode: link
+  - name: Справка (одна страница) 
+    href: anotherpage.md
+  - name: Создайте свой первый опрос
+    href: first-survey.md

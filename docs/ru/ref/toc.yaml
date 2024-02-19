@@ -1,0 +1,11 @@
+title: Справка
+href: index.yaml
+items:
+  - name: Что такое EnjoySurvey?
+    href: enjoysurvey.md
+  - name: 'Глоссарий'
+    href: glossary.md
+  - name: Требования к опросам
+    href: requirements.md
+  - name: Добавление сотрудников
+    href: users.md
