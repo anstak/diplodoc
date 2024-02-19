@@ -21,12 +21,12 @@ class Server {
     const {
       autoOpen = false,
 
-      watchPattern = 'docs/**/*',
+      watchPattern = 'pages/**/*',
 
       port = 8000,
 
       serveIndexes = ['index.html'],
-      serveDir = 'docs-html',
+      serveDir = 'docs',
       cacheControl = false,
 
       ssePath = '/events',
