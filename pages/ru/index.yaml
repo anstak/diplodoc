@@ -1,6 +1,13 @@
 title: Документация EnjoySurvey
 links:
   - title: Справка
-    href: ref/
+    href: reference
   - title: Создайте свой первый опрос
     href: first-survey.md
+  - title: Доступная аудитория
+    href: audience.md
+  - title: Доступные типы опросов
+    href: surveys.md
+  - title: Доступные типы вопросов
+    href: questions.md
+    
