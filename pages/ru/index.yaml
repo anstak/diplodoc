@@ -8,6 +8,18 @@ links:
     href: audience.md
   - title: Доступные типы опросов
     href: surveys.md
+  - title: Конструктор опроса
+    href: constructor.md
   - title: Доступные типы вопросов
     href: questions.md
+  - title: Настройки вопросов
+    href: settings.md
+  - title: Скринер
+    href: screener.md
+  - title: Опросные квоты и фильтры
+    href: quotas.md
+  - title: Сбор ответов
+    href: collecting.md
+  - title: Результаты
+    href: results.md
     

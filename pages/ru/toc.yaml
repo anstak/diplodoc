@@ -3,13 +3,25 @@ href: index.yaml
 items: 
   - name: Справка
     href: reference.md
-  - name: Создайте свой первый опрос
+  - name: Создайте свой первый опрос (рыба)
     href: first-survey.md
-  - name: Доступная аудитория
+  - name: Доступная аудитория (рыба)
     href: audience.md
   - name: Доступные типы опросов
     href: surveys.md
+  - name: Конструктор опроса (рыба)
+    href: constructor.md
   - name: Доступные типы вопросов
     href: questions.md
+  - name: Настройки вопросов
+    href: settings.md
+  - name: Скринер
+    href: screener.md
+  - name: Опросные квоты и фильтры
+    href: quotas.md
+  - name: Сбор ответов (рыба)
+    href: collecting.md
+  - name: Результаты (рыба)
+    href: results.md
 
     
